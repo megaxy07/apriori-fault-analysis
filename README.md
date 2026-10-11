@@ -13,5 +13,5 @@ Deterministic Fault Chain (`Confidence = 100%`)**: Whenever `Voltage_Sag` and `H
 Root-Cause Linkage (`Confidence = 100%`)**: `Gate_Driver_Fault` directly predicts thermal stress in `High_MOSFET_Temp` (`Lift = 1.25`).
 
 ## Visualization
-(assets/apriori_metrics_plot.png)
+apriori-fault-analysis/assets/apriori_metrics_plot.png
 
