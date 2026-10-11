@@ -1,0 +1,11 @@
+Transaction_ID,Fault_Flags
+T1,"Overcurrent_Trip,High_MOSFET_Temp,Voltage_Sag"
+T2,"Overcurrent_Trip,High_MOSFET_Temp,Gate_Driver_Fault"
+T3,"Overcurrent_Trip,High_MOSFET_Temp,Voltage_Sag,Gate_Driver_Fault"
+T4,"Overcurrent_Trip,High_MOSFET_Temp"
+T5,"Voltage_Sag,PWM_Signal_Loss,MCU_Reset"
+T6,"Overcurrent_Trip,High_MOSFET_Temp,Voltage_Sag"
+T7,"High_MOSFET_Temp,Gate_Driver_Fault"
+T8,"Overcurrent_Trip,Voltage_Sag,MCU_Reset"
+T9,"Overcurrent_Trip,High_MOSFET_Temp,Voltage_Sag,Gate_Driver_Fault"
+T10,"Voltage_Sag,PWM_Signal_Loss"
