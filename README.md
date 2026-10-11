@@ -1,5 +1,8 @@
 Apriori Association Rule Mining for Industrial ECE Fault Analysis
 
+## The Problem Statement
+Develop a Python program to implement the Apriori algorithm for identifying frequent itemsets and generating association rules from any REAL TIME transaction data. Apply a minimum support threshold of 40% and a minimum confidence threshold of 60%. Calculate the support, confidence, and lift of the generated rules and interpret the relationships among frequently purchased items.
+
 ## Project Overview
 This project implements the  **"Apriori Algorithm" **to discover co-occurring hardware fault patterns in power electronics and embedded system telemetry logs. Instead of standard retail transaction data, this implementation analyzes diagnostic event logs containing faults such as `Overcurrent_Trip`, `High_MOSFET_Temp`, `Voltage_Sag`, and `Gate_Driver_Fault`.
 
